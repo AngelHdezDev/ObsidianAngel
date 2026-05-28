@@ -1,0 +1,12 @@
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/backlink.json
+.obsidian/hotkeys.json
+.obsidian/appearance.json
+
+# Ignorar cachés y logs
+.trash/
+*.log
+.DS_Store
+EOF
